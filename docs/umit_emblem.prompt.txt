@@ -1,0 +1,5 @@
+﻿Built-in imagegen edit prompt:
+Edit the latest user attached image. Target is the existing UMІT donor emblem ONLY: red blood drop and red heart with white ECG trace, pale cyan dove above, silver-gray cupped hands and incomplete circular silver outline. Preserve exact geometry, colors and glossy subtle shading of this emblem. Remove the entire off-white/milky rectangular background and all empty margins, including background inside gaps of the emblem, to genuine alpha transparency. No new design, no text, no letters, no wordmark, no shadow outside emblem, no added icons. Output one clean tightly centered square transparent PNG logo, emblem occupies 88% canvas. This is a cutout of the supplied existing logo for a Flutter application, not a redesign.
+
+Output: assets/images/umit_emblem.png
+Verified: RGBA, alpha range 0–255; corner alpha 0.

@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "ÜMIT — Web (Release)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "deviceId": "edge",
+      "flutterMode": "release",
+      "toolArgs": ["--web-hostname=127.0.0.1", "--web-port=59164"]
+    },
+    {
+      "name": "ÜMIT — Debug",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "deviceId": "edge",
+      "flutterMode": "debug",
+      "toolArgs": ["--web-hostname=127.0.0.1", "--web-port=59164"]
+    }
+  ]
+}
